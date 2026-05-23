@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EVENTIDE_LOUNGE.aternos.me",
-    "port": 36963,
+    "ip": "hypergng.play.hosting",
+    "port": 47349,
     "version": "1.20.1",
     "try-creative": false
   },
