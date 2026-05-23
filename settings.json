@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rat_1011.aternos.me",
-    "port": 36963,
+    "ip": "hypergng.play.hosting",
+    "port": 14666,
     "version": "1.20.1",
     "try-creative": false
   },
