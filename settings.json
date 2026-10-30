@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EVENTIDE_LOUNGE.aternos.me:36963",
-    "port": 36963,
+    "ip": "eventide.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
